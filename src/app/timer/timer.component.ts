@@ -1,7 +1,6 @@
 import { Component, OnInit, Input, OnDestroy } from '@angular/core';
 import { Exercise } from '../exercise';
 
-
 @Component({
   selector: 'app-timer',
   templateUrl: './timer.component.html',
