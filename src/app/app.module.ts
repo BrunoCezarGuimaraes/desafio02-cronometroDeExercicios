@@ -7,7 +7,7 @@ import { TimerComponent } from './timer/timer.component';
 
 import { registerLocaleData } from '@angular/common';
 import localePt from '@angular/common/locales/pt';
-import { FormsModule } from '@angular/forms';
+import { ReactiveFormsModule } from '@angular/forms';
 
 registerLocaleData(localePt);
 
@@ -19,7 +19,7 @@ registerLocaleData(localePt);
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    ReactiveFormsModule
   ],
   providers: [
     { provide: LOCALE_ID, useValue: "pt-BR"},

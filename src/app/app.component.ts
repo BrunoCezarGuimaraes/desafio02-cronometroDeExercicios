@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { Exercise } from './exercise';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -7,12 +6,5 @@ import { Exercise } from './exercise';
 })
 export class AppComponent {
   config: boolean = false;
-  exercises: Exercise[] = [{
-    name: 'Abdominal',
-    duration: 30,
-    repetitions: 3,
-    preparation: 15,
-    rest: 20
-  }];
 
 }
