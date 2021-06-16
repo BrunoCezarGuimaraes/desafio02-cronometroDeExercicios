@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Atualização - Desafio 03
+O Desafio 03 guiado da Bootcamp era a refatoração desse codigo, as melhorias foram a utilização de Pipe, Service, ReactiveFormsModule e melhora no cronômetro (maior precisão e o tempo passar mesmo com a janela minimizada).
