@@ -28,3 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Atualização - Desafio 03
 O Desafio 03 guiado da Bootcamp era a refatoração desse codigo, as melhorias foram a utilização de Pipe, Service, ReactiveFormsModule e melhora no cronômetro (maior precisão e o tempo passar mesmo com a janela minimizada).
+
+## LINK
+https://desafio02-cronometro-de-exercicios.vercel.app 
